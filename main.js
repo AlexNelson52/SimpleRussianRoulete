@@ -1,5 +1,5 @@
 `use strict`;
-let chamber = ["Nothing","Bullet"];
+let chamber = ["Nothing", "Nothing", "Nothing", "Nothing", "Nothing", "Bullet"];
 
 function gun(survivalOrDeath){
   var colore = document.getElementById("flash-red").value;
